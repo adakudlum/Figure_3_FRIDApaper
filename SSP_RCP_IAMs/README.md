@@ -1,0 +1,1 @@
+This directory holds the data corresponding to different SSP-RCP combinations from seleceted Integrated assessment models. These were obtained from the SSP database hosted by IIASA (<a href="#">https://tntcat.iiasa.ac.at/SspDb/dsd?Action=htmlpage&page=about</a>)
