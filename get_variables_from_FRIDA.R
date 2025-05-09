@@ -5,6 +5,7 @@
 #Division for Ocean and Ice
 #Norwegian Meteorological Institute
 
+
 get.frida.vars <- function() {
 
 filepath.frida.emb  <- ("./FRIDA_sensi_output/plotData_EMB")
